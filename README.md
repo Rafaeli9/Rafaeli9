@@ -1,5 +1,5 @@
 ## :information_source: Sobre
-  Olá meu nome é Rafael Fernades, sou estudante inciante em front-end e back-end, apredendo tecnologias como Javascript, React, HTML e CSS.
+  Olá, meu nome é Rafael Fernades, sou estudante inciante em front-end e back-end, apredendo tecnologias como Javascript, React, Python, HTML e CSS.
 
 🎓 Estudante de **Análise e Desnvolvimento de Sistemas - [Universidade Nove de Julho (UniNove - SP)](https://www.uninove.br/)**
 
