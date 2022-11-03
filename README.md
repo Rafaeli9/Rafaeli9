@@ -1,7 +1,9 @@
 ## :information_source: Sobre
-  Olá, meu nome é Rafael Fernandes, sou estudante inciante em front-end e back-end, apredendo tecnologias como Javascript, React, Python, HTML e CSS.
+  Olá, meu nome é Rafael Fernandes, sou estudante inciante em front-end e back-end, apredendo tecnologias como Javascript, React, Angular, PHP, HTML e CSS.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas - [Universidade Nove de Julho (UniNove - SP)](https://www.uninove.br/)**
+🎓 Formado em **Análise e Desenvolvimento de Sistemas - [Universidade Nove de Julho (UniNove - SP)](https://www.uninove.br/)**
+
+🎓 Estudante de **Sistemas da Informção - [Universidade Nove de Julho (UniNove - SP)](https://www.uninove.br/)**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeli9&layout=compact)](https://github.com/Rafaeli9/github-readme-stats)
@@ -10,7 +12,7 @@
 
 ## :rocket: Tecnologias Utilizadas
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9) [![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9) [![Php](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9)
 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9)  [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/Rafaeli9)](https://github.com/Rafaeli9)
